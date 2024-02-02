@@ -42,7 +42,5 @@ def main():
     if submit_change_container.button("Submit", key='submit_change'):
         kb.update_embeddings(question, answer, priority=True)
 
-
-
 if __name__ == '__main__':
     main()
