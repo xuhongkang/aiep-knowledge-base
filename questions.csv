@@ -1,0 +1,505 @@
+"What are Individualized Education Plans (IEPs), and who crafts them?","Individualized Education Plans (IEPs) are documents providing tailored education plans for students with disabilities, crafted by a multidisciplinary team including educators, specialists, the student, and their family."
+What challenges do non-English speaking families face with IEPs?,"Non-English speaking families struggle to understand the intricate IEP process, and obtaining translated IEPs can be time-consuming, hindering educational planning and support."
+What is the mission of the AI-EP Spring 2024 Project?,"The mission is to democratize access to educational resources to allow all parents, regardless of language or background, to effectively participate in and contribute to their child's personalized education plan."
+How does Innovate Public Schools support families in the education process?,"Innovate Public Schools (IPS) is a nonprofit organization that builds the capacity of parents and families to organize, advocate, and demand high-quality schools for their children, focusing on political will to improve the system."
+What issue did parents in the Mission district of SF identify in 2021 regarding IEPs?,"In 2021, parents in the Mission district of SF identified a lack of translation and interpretation services for students with IEPs and worked with the district to ensure change."
+What positive impacts came from the collaboration between IPS and SFUSD in 2022?,"The collaboration between IPS and SFUSD in 2022 improved translation and interpretation services, impacting over 12,000 students and continuing efforts to ensure the policy is properly implemented."
+What is the purpose of Individualized Education Plans (IEPs)?,"Individualized Education Plans (IEPs) are used to provide tailored education plans for students with disabilities, ensuring they receive the support and services needed to thrive in their educational journey."
+What are the main challenges faced by families with limited English proficiency regarding IEPs?,"Families with limited English proficiency often struggle with understanding the complexity of IEPs, find navigating the IEP process challenging, and face delays in obtaining translated IEP documents, which can take over two weeks."
+What is the mission of the AI-EP Spring 2024 Project?,"The mission of the AI-EP Spring 2024 Project is to democratize access to educational resources, ensuring that all parents can participate in and contribute to their child's personalized education plan, regardless of language or background."
+What role does Innovate Public Schools play in the AI-EP Spring 2024 Project?,"Innovate Public Schools (IPS) is dedicated to empowering parents and families to advocate for quality schools, collaborating with SFUSD to enhance translation and interpretation services, and elevating the voices of community members in educational decisions."
+How does IPS propose to improve the educational system for children?,"IPS aims to reform the education system to serve all children, with a strong belief that change can be achieved by increasing political will and by advocating for the centering of parents, families, and students' voices and experiences in educational decisions."
+What is the primary goal of developing the hosted web application in the AIEP project?,The primary goal is to provide immediate and accurate translations of IEP documents and a more intuitive understanding of the IEP process to non-native speaking parents.
+Which specific group of parents is the AIEP project targeting to help?,The AIEP project is targeting non-native speaking parents in the San Francisco Unified School District (SFUSD) whose children are on an IEP.
+What are the two main features of the web application developed under the AIEP project?,The two main features are Word-by-word Translation and Personalized Chatbot support.
+Can you explain the kind of collaboration involved with Innovate Public Schools for the AIEP project?,The collaboration involved conducting thorough interviews with parents to identify their specific challenges and needs related to IEPs.
+What critical needs of the non-native speaking parents did the interviews reveal?,"The interviews revealed a critical need for immediate and accurate translations of IEP documents, and a more intuitive understanding of the IEP process including awareness of parental rights, entitlements, and actionable steps."
+What challenges do ESL parents face in the IEP process?,"ESL parents in marginalized communities face challenges such as delayed translations of IEP documents, difficulties navigating the IEP process, and trouble understanding their rights and the actions they can take to improve their children's education."
+How does the application developed by the AIEP project help parents with the IEP process?,The AIEP application helps parents by providing real-time translations of IEP documents and a generative AI-powered chatbot that answers questions specific to the IEP process in SFUSD.
+What specific features does the AIEP web application provide to assist parents?,"The AIEP web application's features include real-time translations, a generative AI chatbot, and specialized prompts to guide parents in asking important questions about the IEP."
+How is the AIEP application tailored to serve the needs of the SFUSD community?,"The AIEP application is tailored to serve the SFUSD community by taking into account the specific challenges and needs identified through interviews with SFUSD parents, ensuring the chatbot and other features are relevant to their specific context."
+What steps were involved in the development of the AIEP application?,"The development of the AIEP application involved extensive interviews with parents, affinity diagramming, service blueprinting, wireframing, prototyping, and user testing."
+What is the IEP process and how does the AIEP project assist with it?,"The IEP process involves creating an Individualized Education Program document tailored to the educational needs of a student with disabilities. The AIEP project assists with this process by allowing users to upload their IEP documents and translate them, facilitating better understanding and accessibility."
+What type of document can be uploaded to the AIEP platform for translation?,An Individualized Education Program (IEP) document can be uploaded to the AIEP platform for translation.
+"After uploading an IEP document, what can be expected on the final page of the AIEP site?","On the final page of the AIEP site, users can see their uploaded IEP document being translated on the left side of the screen. Additionally, they can interact with a chatbot on the right side for support and navigation help."
+How does the chatbot on the AIEP platform assist users during the translation process?,The chatbot on the AIEP platform provides interactive assistance to users by answering their questions and guiding them through the translation process. It helps ensure that users can effectively navigate the site and understand the translation of their IEP document.
+"Can users ask their own questions to the AIEP chatbot, or must they only use the suggested questions?","While the document suggests that there are pre-set questions below the chatbot to guide users, it is not clearly stated whether users can ask their own questions. However, most interactive chatbots are designed to respond to user-initiated queries, so it is likely that users can ask their own questions in addition to using the suggested ones."
+What is the primary function of the translated IEP feature in the AI-EP Spring 2024 Project?,"The primary function of the translated IEP feature in the AI-EP Spring 2024 Project is to provide an exact translation of the original IEP document, which is displayed alongside the original on the user's screen."
+How does the chatbot interact with the question suggestions in the AI-EP project?,The chatbot in the AI-EP project uses question suggestions to automatically generate answers when a user selects one of the suggestions.
+Are users able to modify or write their own questions within the AI-EP system?,"Yes, users are able to modify the provided suggestions or write their own questions to get instant answers from the AI-EP system."
+What type of document was the excerpt taken from regarding the AI-EP project?,"The excerpt was taken from a document named 'AI-EP Spring 2024 Project Charter.pdf', which is likely a formal outline of the project's goals, stakeholders, timelines, and functionalities."
+Who are the intended users of the AI-EP's translated IEP feature?,"The intended users of the AI-EP's translated IEP feature are likely educators, administrators, parents, and professionals involved in the IEP process who may need to access IEPs in multiple languages for better understanding and communication."
+What is the role of Beth Simone Noveck in the AI-EP project?,"Beth Simone Noveck is a coordinator for the AI-EP project, the Director of TheGovLab, and a Professor at Northeastern University."
+Who is responsible for the direction of the Burnes Center of Social Change?,Beth Simone Noveck is responsible for the direction of the Burnes Center of Social Change.
+In which university does David Fields hold a professorship?,David Fields holds a professorship at Northeastern University.
+What is Henri Hammond-Paul's affiliation with TheGovLab?,Henri Hammond-Paul is a Fellow at the Burnes Center of Social Change and a Research Fellow at TheGovLab.
+In what capacity does Constance Yowell work with Northeastern University?,Constance Yowell is a Senior Fellow at TheGovLab and a Senior Advisor to the Provost for Special Projects at Northeastern University.
+What is the purpose of the AIEP project?,"The purpose of the AIEP project is not explicitly detailed in the document excerpt, but it can be inferred that it is likely an initiative involving collaboration with Innovate Public Schools and mentorship to improve educational processes, possibly with a focus on Individualized Education Programs (IEPs)."
+Who are the team members of the Spring 2024 AIEP project?,"The Spring 2024 AIEP project team members include Hongkang Xu and Etta Brooks."
+Who participated as parents in the Spring 2024 AIEP project feedback process?,"The parents who participated in the feedback process include Rosa M., Diana V., Melly, Marta M., and Carmen R."
+Where can the repositories for the AIEP project be accessed?,The repositories for the AIEP project can be accessed at the following URLs: Backend Repository - 'https://github.com/xuhongkang/iep-backend' and Frontend Repository - 'https://github.com/xuhongkang/iep-frontend'.
+What type of resource is provided at the URL 'https://www.figma.com/file/ZXIHfb0swjbJuprVzqPYEa/AIEP-Frontend'?,The resource at the given Figma URL is the wireframe for the 2nd Prototype of the AIEP project's frontend.
+What was the date when the team finished developing the second prototype?,"The team finished developing the second prototype on December 1, 2023."
+On which date did the user testing sessions with parents conclude?,"The user testing sessions with parents concluded on December 4, 2023."
+"Who attended the End of Semester Presentation on December 15, 2023?","The End of Semester Presentation was attended by mentors, Innovate Public Schools and parents."
+"What significant event began on January 8, 2024?","The spring 2024 development began on January 8, 2024."
+Who are the two team members that started working full-time in spring 2024?,Etta and Kane started working full-time on the team in spring 2024.
+What features are included in the Intervention Planning System (IPS) within the AIEP project?,"The features included in the IPS for the AIEP project are: Text to Speech, Intervention Tracking, and User Authentication."
+How will the AIEP project team communicate their daily updates to stakeholders?,"Daily update emails will be sent to the team at the Burnes Center of Social Change, outlining work completion, tasks in progress, and blocking action items."
+"Who are Fahad and Santi in relation to the AIEP project, and what is the purpose of the weekly meetings with them?","Fahad and Santi are likely key team members or stakeholders in the AIEP project. The purpose of the meetings with them is to discuss development changes, updates in requirements, and milestones."
+What is the role of Innovate Public Schools in the AIEP project?,Innovate Public Schools likely acts as a client or a user group for the AIEP project. They participate in regular meetings to report project progress and maintain communication with users and clients.
+What might happen to the AIEP web application if there are changes in hosting option pricing or service?,"If there are changes in hosting option pricing or service, it would temporarily affect the availability of the AIEP web application."
+What is the purpose of FastAPI in the AI-EP backend project?,"FastAPI is utilized in the AI-EP backend project for creating APIs with Python 3.7+ based on standard Python type hints. This framework is fast, easy to use, and allows for the creation of a RESTful API."
+Why is Uvicorn included in the AI-EP backend dependencies?,"Uvicorn is included as a lightning-fast ASGI server for Python, used to serve FastAPI applications. It ensures high performance and concurrency."
+What role does SQLAlchemy play in the AI-EP backend?,"SQLAlchemy in the AI-EP backend acts as an SQL Toolkit and Object-Relational Mapping library for Python, providing a full suite of well-known enterprise-level persistence patterns."
+How is asynchronous functionality handled in the AI-EP backend?,"Asynchronous functionality in the AI-EP backend is usually handled with the async/await syntax of Python, and libraries such as asyncio, databases, and websockets are used to enable this feature."
+What library is used for making HTTP requests in the AI-EP backend?,The requests library is used in the AI-EP backend for making HTTP requests to communicate with external APIs or services in a simple way.
+What organizations are partners in the AIEP project?,"Partners in the AIEP project include Innovate Public Schools, parents, mentors, Northeastern University, and the Burnes Center for Social Change."
+Which academic institution is involved with the AIEP project?,Northeastern University is the academic institution involved with the AIEP project.
+What is the goal of the parents meeting mentioned in the team notes?,The goal of the parents meeting is to anticipate feedback from one parent for next week.
+What is the role of Innovate Public Schools (IPS) in the AIEP project?,Innovate Public Schools (IPS) is expected to establish a consistent feedback loop and help in getting more parents to use the product.
+How is user feedback being integrated into the AIEP project development process?,User feedback is being collected after the first user testing and ongoing development suggests that feedback collection is an iterative process.
+What is the goal of the AI4Impact program at Northeastern University?,"The goal of the AI4Impact program at Northeastern University is to mix hands-on application design and development with generative AI tools and a commitment to making a positive social impact, specifically to help marginalized communities."
+How do students in the AI4Impact program apply their skills to help marginalized communities?,"Students in the AI4Impact program apply their skills to help marginalized communities by working on hands-on projects like assisting non-English-speaking parents to understand their child's IEPs, to ensure they're empowered during school meetings."
+Who did the AI4Impact team partner with for their project on IEPs?,The AI4Impact team partnered with Innovate Public Schools for their project.
+Why are IEPs important for non-English-speaking parents in the San Francisco Unified School District?,"IEPs are important for non-English-speaking parents as they are detailed documents that explain their child's special learning needs, and understanding them is crucial for ensuring their child's educational rights are respected."
+What are the challenges faced by non-English-speaking parents regarding IEPs?,"The challenges faced by non-English-speaking parents regarding IEPs include delays in receiving translated versions of these documents and the complexity of the translations, which can leave parents feeling disempowered in their interactions with schools."
+What is the AI4Impact program at Northeastern University?,"The AI4Impact program at Northeastern University is a unique program that combines application design and development, the use of generative AI tools, and a commitment to making a positive social impact."
+How does the co-op program at Northeastern University benefit students?,The co-op program at Northeastern University provides students with real industry experience alongside their academic studies.
+What type of experience do Northeastern students bring to their co-op employers?,"Northeastern students are valued by employers for their eagerness to learn, their hard work and their familiarity with the latest tools."
+What motivated the AI4Impact team to work with Innovate Public Schools?,The AI4Impact team was motivated to work with Innovate Public Schools to help support non-English-speaking parents and impact marginalized communities positively.
+What issues did non-English-speaking parents in the San Francisco Unified School District face regarding IEPs?,Non-English-speaking parents faced difficulties understanding their child's complex Individualized Education Plan (IEP) due to language barriers and the intricacy of the documents.
+What rights are guaranteed to parents regarding the translation of IEP documents?,Parents are legally entitled to receive translated versions of IEP documents.
+How did the delays in translating IEPs affect non-English-speaking parents?,"Delays in IEP translations left parents feeling powerless and uninformed during school meetings, affecting their ability to participate in their child's education effectively."
+What surprised the students about the AI4Impact program's approach to learning?,The students were initially surprised to find that the AI4Impact program involved hands-on projects rather than being purely theoretical or ethics-based with lots of reading and writing.
+Describe a challenge faced by the AI4Impact team during the project.,"Challenges included managing the workload alongside other classes, pulling all-nighters, engaging in heated debates over design, and revisiting ideas multiple times."
+How did the AI4Impact team's prototype aim to help parents with IEPs?,The AI4Impact team's prototype was designed to help non-English-speaking parents understand the IEP documents more clearly and quickly.
+What was the nature of the feedback received from parents about the AI4Impact project?,"Parents provided feedback that rejoiced the team's efforts; for example, one parent expressed their hope that their child could grow up to help others like the team did."
+What did one parent say to the AI4Impact team that was particularly memorable?,"A parent told the team during a call with a translator that they hoped their child could grow up to be like the students, working to help others."
+How did the AI-EP project impact the perspective on education for those involved?,The AI-EP project made participants consider the role of education in addressing social issues and the importance of advocating for marginalized communities.
+Why is it important for educational technology to address inequality?,"Educational technology needs to address inequality in order to ensure everyone's rights, including the right to a good education, are respected."
+What is the AI-EP project advocating for?,"The AI-EP project is advocating for educational rights, particularly in marginalized communities."
+"What is the broader significance of knowledge through education, according to the document?","Knowledge through education is seen as a legacy passed down through generations, and the document highlights its role in enabling social change and supporting programs like AI4Impact."
+Which university is associated with the AI4Impact program?,Northeastern University is associated with the AI4Impact program.
+How did the AI4Impact team involve parents in their design and development process?,"The AI4Impact team started their process with virtual meetings and heartfelt conversations with parents, integrating their insights into the design and development of the project."
+What did the AI4Impact team learn from their partnership with Innovate Public Schools?,"From their partnership with Innovate Public Schools, the AI4Impact team learned about the challenges non-English-speaking parents face and the need for timely, clear translations of IEPs."
+How did AI tools play a role in the AI4Impact program?,"The AI4Impact program utilized generative AI tools to help design and develop applications that could make a positive social impact, specifically in the context of this project, to aid in the understanding of IEPs for non-English-speaking parents."
+What is the AI4Impact program?,The AI4Impact program is a unique initiative at Northeastern University combining hands-on application design and development with generative AI tools to create social impact.
+What distinguishes Northeastern University's approach to education?,"Northeastern University is known for its co-op program, which provides students with real industry experience alongside their studies."
+Why does AI4Impact appeal to students who want to help marginalized communities?,"AI4Impact is appealing because it offers an opportunity to use skills to aid marginalized communities, aligning with the students' desire to make a positive impact."
+Who were the stakeholders of the AI4Impact project described in the document?,"The stakeholders of the AI4Impact project were Northeastern University, the AI4Impact team, Innovate Public Schools, non-English-speaking parents, and students with special learning needs."
+What challenge did non-English-speaking parents in the San Francisco Unified School District face with IEPs?,The challenge was understanding their child's complex Individualized Education Plan due to language barriers and the technical nature of the documents.
+Why were translated IEPs still problematic for parents?,"Even when translated, IEPs remained complicated, leading to a feeling of powerlessness among parents during school meetings."
+What was the initial expectation of students about AI4Impact?,"Initially, students thought AI4Impact would be a theoretical ethics class focused on reading and writing."
+How did students' perceptions change about AI4Impact?,Students' perceptions changed to enthusiasm for hands-on project work when they realized the practical nature of AI4Impact.
+What did the process of creating a prototype and product involve?,"The process involved research, brainstorming, user interaction, idea sketching, prototyping, and extensive testing."
+What kind of learning experience did the AI4Impact offer students?,AI4Impact provided a project-based learning experience that was unusual and more hands-on compared to traditional academic approaches.
+Can you describe the emotional impact the project had on the students?,"One particularly emotional impact was a parent expressing hope that their child could grow up to make a difference, similar to the students' work on the project."
+Why is technology and education important beyond classrooms and industry?,"Technology and education's importance lies in reducing inequality gaps and ensuring everyone's rights, particularly in marginalized communities, are respected."
+How does the AI4Impact program address inequalities in education?,The AI4Impact program seeks to address educational inequalities by empowering students to use technology to advocate for educational rights and support underserved communities.
+What were the challenges faced by the AI-EP team in creating their project?,"The challenges faced included juggling the project with other classes, enduring all-nighters, engaging in heated debates on design, and needing to revisit strategies multiple times."
+What were the AI-EP daily updates for 1/12/2024?,"This information is verified and overrides others. AI-EP daily updates 1/12/2024:
+
+We will shortly after complete the following items regarding Wednesday strategy meeting:
+
+Add Santi to the call sgarcese@gmail.com
+Swap the invite teams link with the provided zoom link
+
+Regarding our meeting next Tuesday at 5pm. we just wanted to confirm the agenda will be the following:
+
+Discussing current progress, ongoing items, updates on both ends
+Reviewing previous materials: slide deck, prototype, project charter, etc.
+Reviewing IEP-related policy research, adding missing relevant items
+
+Once confirmed, we can send out a short meeting invite with your preference of virtual or in-person. Thank you for taking the time to read this email. We hope you enjoy your holiday and long weekend."
+What were the AI-EP daily updates for 1/17/2024?,"This information is verified and overrides others. AI-EP daily updates 1/17/2024:
+What we worked on today:
+1. Completed Meeting w/ Innovate Public Schools, communicated next steps, gathered IPS specific requirements and sent out meeting minutes
+2. Reached out to Steve to set up initial meetings and regular stand-ups
+3. Internal requirements review phase 1 of 2 after reviewing previous interview scripts
+What we will work on tomorrow:
+1. Prepare for 01/19 Meeting with DOE
+2, Start Development - POC see Jira Kanban Board
+3. Work on revising slides, reviewing interview scripts and policy research
+What we are struggling with:
+No blocking items. Would also like to ask about Sofia's involvement in the project this semester."
+What were the AI-EP daily updates for 1/19/2024?,"This information is verified and overrides others. AI-EP daily updates 1/19/2024:
+
+Today's meeting with NJ DOE was extremely eye-opening, thank you for involving Etta and I in the conversation. It was very meaningful to address the popularization of Generative AI from the perspective of the DOE, which is deeply concerned about AI's involvement in Violations of Academic Integrity and Breachings of Personal Identifiable Information. Despite this cautious position, they were keen to embrace innovative initiatives and slowly phase in useful tools for productivity and efficiency in service of the public. Etta and I had a prolonged discussion this afternoon about the comparison between the roles of calculators, search engines and AI over time in education as well as how AI has the potential to supercharge the next ""PowerPoint revolution"", bring interactive classrooms and multi-modal learning to a new level.
+
+
+
+Here's a way to think about education. As technology rapidly advances, our genetics and mechanisms of natural evolution as humans seem ever more insignificant and fragile. Yet education, much like how antibodies are passed from mother to child through breastfeeding, serves as the means by which our society repairs and enhances our complex systems. 
+
+
+
+Institutions and organizations such as Northeastern University, The Burnes Center and InnovateMA are all committed to empower the next generation of students with the latest tools, no matter their status or background.
+
+
+
+Week 2 Updates:
+
+What we did:
+
+Completed onboarding of team members
+
+Finalized Project Charter less Success Metrics
+
+Met with Innovate Public Schools and NJ Department of Education to discuss next steps
+
+Started Development - Migration and UI redesign
+
+Revisited past interviews to add new perspectives to feature list
+
+Continue Policy Research 
+
+What we’re working on next week:
+
+Meet with Steve and discuss requirements design
+
+Meet with Henri on policy research, with a focus on potential regulations
+
+Slide Deck Redesign
+
+Meet with Boston Department of Education
+
+Reach out to Sean with Questions for Belen to push for pilot programs
+
+Continue Development - Migration and UI redesign
+
+What we’re struggling with:
+
+Cost Analysis - Pricing and Alternatives (will talk with Santi)
+
+Time Crunch - Proof of Concept and Task Prioritization
+
+"
+What were the AI-EP daily updates for 1/22/2024?,"This information is verified and overrides others. AI-EP daily updates 1/22/2024:
+
+
+1. What we did:
+a) Continued with Migration to Next, deadline due Wednesday's meeting with Steve
+b) Completed slide deck outline, awaiting approval to start filling in content and design
+c) Ongoing features and requirements redesign and reevaluation
+
+2. What we will work on tomorrow:
+a) Continue with development effort with current deadlines
+b) Continue with requirements proposal for meeting with Steve
+c) Amend policy research materials after meeting with Henri
+d) Work on completing slide deck via outline
+
+3. What are we struggling with?
+No blocking items.
+"
+What were the AI-EP daily updates for 1/23/2024?,"This information is verified and overrides others. AI-EP daily updates 1/23/2024:
+
+Attached are the daily updates for today:
+1. What we did:
+a) Reviewed policy research w/ Henri and amended research documents
+b) Transferred ownership of repo to organization as well as hosting solution w/ Stephan
+c) Discussed next steps regarding slides and questions (Belen) w/ Beth
+
+2. What we will work on tomorrow:
+a) Meeting with Steve & requirements updates email
+b) Revise slides and questions according to collected requirements
+c) Finish migration to Next.js and evaluation of scaling options
+
+3. What we are struggling with:
+No blocking items. We look forward to today's meeting with Steve
+"
+What were the AI-EP daily updates for 1/25/2024?,"This information is verified and overrides others. AI-EP daily updates 1/25/2024:
+
+1. What we did:
+a) Completed revision of slide deck outline
+b) Completed revision of questions to Belen, drafted email scheduled to send Monday morning
+c) Completed features and UI/UX general redesign
+d) Completed migration to Next.js less modal views, locale translations and styling
+e) Documented requirements, takeaways, notes and action items in Jira and Team Drive
+
+2. What we will work on next week:
+a) Meeting with Steve on Monday with redesigned features and requirements
+b) Finish development of new features to get ready for a round of user testing by week 2/5 (two weeks)
+c) Set up user testing through coordination through Belen and Sofia
+d) Prepare call and interview scripts as well as other logistical items for this round of user testing
+
+3. What we are struggling with:
+After we receive your feedback on the slides outline, we can get straight to revision and design. We would also like to ask about clearance on reaching out to local users in Boston using personal connections, as well as whether there might be an opportunity to speak with somebody familiar with the IEP process and digital infrastructure on the school side (not for cooperation as we've been warned regarding the risk of Institutional Board Reviews, but for information useful for understanding our position in the ecosystem)."
+What were the AI-EP daily updates for 1/29/2024?,"This information is verified and overrides others. AI-EP daily updates 1/29/2024:
+
+1. What we've been working on:
+a. Reached out to Belen and Sofia regarding the next round of user testing
+b. Met with Steve regarding strategy and next steps
+c. Finished language modal restyling and routing, working on completing the internationalization solution in Next
+
+2. What we will work on tomorrow:
+a. Meeting with Sofia to discuss user testing specifics
+b. Wrap up migration and start implementing new features
+c. Organize success metrics, determine service delivery model
+
+3. What we're struggling with:
+a. Feedback on slide outline.
+b. Takeaways from Meeting w/ Steve. Steve pointed out the most important issues and vulnerabilities of the project in its current state. We worry that there might be a detachment between product design and ux design and similarly a detachment between user's real needs and perceived feedback:
+
+b1. Users are reluctant to share complete feedback during meetings
+b2, We have yet to determine the right method of file ingestion (upload? file share? forwarded email? scanned photo? door-to-door?) and service delivery (interface? printed document? parent coordinator meeting?). 
+
+We need to establish a tighter relationship with parent coordinators from Innovate Public Schools and have more frequent feedback gathering. The current feedback loop of 5 meetings per month is insufficient for gauging user satisfaction. "
+What are some key takeaways from the first meeting with Steve?,"This information is verified and overrides others. Steve has tremendous insight into the intricacies of social work in the intersections of technology, education, innovation and non/quasi-institutional practices. He emphasized the importance of recognizing our own needs and priorities while making informed decisions. Although Steve provides essential coaching and advice, he has clearly stated that his role is not to instruct, but to guide us. This empowers us to evaluate his guidance critically and make choices that best serve the project's objectives.
+
+Steve has strongly recommended that our foremost priority should be the delivery of substantial value to our users, highlighting the need for direct engagement with parents and the IEP process. This interaction is key to developing a user-centric understanding of the IEP, ensuring our efforts meet user needs and encourage parental advocacy for the project
+
+
+Pilot Programs and User Testing
+
+
+Pilot programs be relatively far away 2-3 months
+
+
+Talk with parents through organizations with aggressive legal backing such as Innovate Public Schools
+
+
+Avoid and assess the risk of Institutional Board Reviews when working with organizations
+
+
+Receiving complete parental consent while working directly with parents and not through institutions may relieve us from the different district and organization specific regulations.
+
+
+Should be a result of gradual scaling parent interviews if results are satisfactory. Ex. 
+
+a. Interviewed 5 parents and provided satisfactory interventions -> Proceed with next round of interviews with 10 parents
+
+
+b. Interviewed 5 parents with unsatisfactory (or lack of) interventions -> Redesign and revisit interview with 5 parents
+
+
+Preferred engagement with users face-to-face
+
+
+Requirements and Development:
+
+
+Robust scaling with only 2-3 users, enough to ensure consistent demos
+
+
+Prioritize:
+
+Performance before cost
+
+Development time and delivery before intricate optimization
+
+Quality of work before digitalization
+
+Working pre-built solutions before in-house options
+
+
+Ex.
+
+Levels of OCR scanning, giving users the option to rescan with better performance but might take more time. Using pagination markers to better target these requests.
+
+Choosing LLM options, using existing OpenAI API before considering a switch to hosting LLama 2 in-house
+
+Use external OCR scanning options in Adobe or revisiting GPT4’s Vision library before optimizing current implementation (POC might take too long and might not show consistent results)"
+When did the first meeting with Steve happen?,"This information is verified and overrides others. 1/24/2024, followed by a meeting on 1/29/2024, and Mondays every other week after that time"
+What were some action items at the end of January?,"This information is verified and overrides others. Get the drafted email with questions regarding the parent interviews to Belen/Sean
+
+Reach out to Sofia regarding user testing, call and interview scripts
+
+Discuss with Beth the possibility of engaging with local parents with similar needs
+
+Discuss with Beth the possibility of talking with someone within the DOE to understand the government/school side of the IEP process, conflicts or alignments of interests
+
+UI-UX and features redesign by the end of week, and with 1st development cycle ending end of next week
+
+Proceed with slides redesign (Upon receiving feedback )
+
+Proceed with policy research looking into different organizational, federal, district and state policies regarding IEPs. Conducting research on the systemic deficiencies in the provisioning of special education services."
+What did we learn from our first meeting with Professor Sofia Bosch Gomez?,"This information is verified and overrides others. The project now has a new mentor, Steve Midgley from Learning Tapestry
+
+The team wants to get feedback from parents on their needs but parents may be reluctant to provide negative feedback
+
+Belen from Innovative Public Schools can help facilitate communication with parents, who prefer text messaging over email
+
+The legal status of the parents is ambiguous so confidentiality of their identities and data is important to consider
+
+Testing prototypes with proxy communities who have similar characteristics to the parents could help get more honest feedback before testing with parents directly
+
+Consider using Cortico for focus groups to get honest feedback from parents.
+
+Use a combination of surveys, interviews, and usability testing to validate the final product with parents.
+
+Sofia's increased teaching commitments have limited her availability for extensive project involvement, particularly for direct interviews and consistent parent-team communication."
+What solutions did the Fall 2023 team come up with?,"This information is verified and overrides others. Instant Translations: Parents can now access real-time translations of entire IEP documents, significantly reducing wait times and enhancing understanding.
+Chatbot Support: We've integrated a generative AI-driven chatbot, tailored specifically to the SFUSD context. This chatbot is designed to answer all queries regarding the IEP document and process, providing personalized support to each user.
+Guided Navigation: The application features specialized prompts and a user-friendly interface, guiding parents through the most pertinent aspects of their child’s IEP. This approach not only clarifies the process but also empowers parents to make informed decisions."
+What was the scope of the project defined by the Fall 2023 team?,"This information is verified and overrides others. 
+The current scope of the project involves the following considerations:
+Developing and deploying a hosted web application
+Servicing non-native speaking parents in SFUSD whose children are on an IEP
+Focusing on two main features - Word-by-word Translation and Personalized Chatbot
+"
+What's the motivation for the project?,"This information is verified and overrides others. In collaboration with Innovate Public Schools within the SFUSD, we conducted thorough interviews with parents to pinpoint their specific challenges and needs related to IEPs. Our findings revealed a critical need for immediate and accurate translations of IEP documents, coupled with a more intuitive understanding of the IEP process, including awareness of parental rights, entitlements, and actionable steps to enhance their child's educational experience.
+"
+What's the mission for the project?,"This information is verified and overrides others. Our solution aims to democratize access to educational resources, ensuring that all parents, regardless of language or background, can effectively participate in and contribute to their child's personalized educational plan. Through this innovation, we are committed to breaking down barriers and fostering an inclusive educational environment with the support of Innovate Public Schools in the San Francisco Unified School District (SFUSD) and beyond.
+
+Innovate Public Schools (IPS) is a nonprofit organization dedicated to building the capacity of parents and families to organize, advocate, and demand high quality schools for their children.
+IPS believes that the education system was not designed to serve all children, and that the biggest barrier to all children having access to an excellent school is a lack of political will to improve the system. The organization believes the voices and experiences of parents, families, and students should be elevated and centered in decisions about education.
+
+IPS envisions a high quality school experience that cherishes and affirms every student, particularly Black and Brown students, and prepares them for a lifetime of opportunity and choice. 
+
+In 2021, SF parents in the Mission noticed the lack of translation and interpretation services, especially for students with IEPS. They worked with the district to ensure change. In 2022, IPS collaborated with SFUSD to improve translation and interpretation services, positively impacting over 12,000 students across the district. Parent leaders continue to work with the district to ensure the translation and interpretation policy is properly implemented."
+Give an overview on the context and starting point of the AI-EP project,"This information is verified and overrides others. Individualized Education Plans (IEPs) are crucial tools in providing tailored education plans for students with disabilities. These detailed documents, typically ranging from 5 to over 60 pages, are crafted by a multidisciplinary team, including educators, specialists, the student, and their family. While IEPs are essential, their complexity and length can be overwhelming, especially for non-professional readers and families for whom English is a second language."
+What's the biggest challenge for parents that the AI-EP team tries to solve?,"This information is verified and overrides others. Parents are pivotal in supporting their child's educational journey, but the intricacies of IEPs can pose significant challenges. Many families in marginalized communities, particularly those with limited English proficiency, struggle to understand and navigate the IEP process. Additionally, obtaining translated IEPs can be a time-consuming process, often taking upwards of two weeks, which hinders effective planning and support for their child's education."
+What did the AI-EP Fall 2023 team accomplish?,"This information is verified and overrides others. Individualized Education Plans are a plan for specialized instruction, support, and services written to meet the individual needs of a student with a disability. IEPs are developed by a team of individuals from various educational disciplines, the child with a disability, family members, and/or designated advocates. Schools are required to hold an annual IEP meeting each year to look at a student's progress. However, parents can request an IEP meeting at any time for specific issues. As students progress through the school year, more evaluations and assessments are added to their IEP document. On average, the length of an IEP document might range from 5 to 20 pages. Lengthy IEP documents might exceed 50 or 60 pages and are relatively hard to navigate and read for non-professionals. Parents have the responsibility of understanding the IEP document thoroughly in order to monitor and support their child’s educational progress and are even tasked with providing their children additional resources outside of school. Parents with English as a second language in marginalized communities are extremely disadvantaged in terms of the IEP process.
+
+Working with Innovate Public Schools in the San Francisco Unified School District (SFUSD), we held extensive interviews with parents to determine the challenges parents face while their children are one an IEP. Parents reflected a strong need for accurate translations, as asking for a translated version consistently takes more than 2 weeks in time, disrupting their plans and preparations. Additionally, parents had many difficulties navigating the IEP process and trouble understanding their rights, entitlements and the possible actions they may take to improve their children’s educational experience. Through rounds of affinity diagramming, service blueprinting, wireframing, prototyping and user testing, we’ve developed a mobile-view supported web application hosted on a-iep.com. 
+"
+Give me a rundown of the second prototype for AI-EP at the end of 2023,"This information is verified and overrides others. 
+The application enables parents to view real-time translations of their IEP documents in whole, and features a generative AI powered chatbot customized to answer any questions on the IEP document and process specific to SFUSD. Specialized prompts identifying the most important questions surrounding the provided IEP are generated as a starting point for the chatbot tool to provide a general direction of inquiry.
+
+
+When you enter the link to our website, you will see the following screen where you can select the language in which you want to use the platform.
+
+You will be able to upload your IEP document and click ""Translate."" Once you complete this step, you will be taken to the final page of the site.
+
+Your uploaded IEP document is being translated on the left, while you can interact with our friendly chatbot on the right. Find suggested questions below the chatbot to guide you if you need help navigating.
+
+After uploading, the translated IEP appears on the left. Here you can see that there is an exact translation of the original IEP document.
+
+When you select a question suggestion on the right, the chatbot automatically generates answers. You can use other suggestions or write your own question, getting instant answers."
+What are the current and past coordinators of the team?,"This information is verified and overrides others. 
+Coordinators
+Beth Simone Noveck
+Director, Burnes Center of Social Change | Director, The GovLab | Professor, Northeastern University
+
+David Fields
+Senior Fellow, Burnes Center of Social Change | Professor of the Practice, Northeastern University
+
+Henri Hammond-Paul
+Fellow, Burnes Center of Social Change | Research Fellow, TheGovLab
+
+Constance Yowell
+Senior Fellow, TheGovLab | Senior Advisor to the Provost,  Special Projects, Northeastern University"
+What are the current and past mentors of the team?,"This information is verified and overrides others. 
+Mentors
+Steve Midgley
+Founder and Managing Director, Learning Tapestry
+
+Fahad Dogar
+Fellow, Burnes Center of Social Center | Associate Professor, Tufts University
+
+Sofía Bosch Gómez 
+Fellow, Burnes Center of Social Center | PostDoctoral Fellow, TheGovLab | Assistant Professor, Northeastern University"
+What are the current and past partners of the team?,"This information is verified and overrides others. Partners
+Sean Alexander
+Director of Operations, Innovate Public Schools
+
+Sean Michael Hardy
+Director of National Strategy and Growth, Innovate Public Schools
+
+Belen Martinez Farmer
+Parent Coordinator, Innovate Public Schools
+"
+Who was on the Fall 2023 team?,"This information is verified and overrides others. Ananda Francis
+Brendon Brady
+Christopher Brooks
+Hongkang Xu
+Jalon Fowler
+Manav Sheth
+Valerie Jap
+"
+Who was on the Spring 2024 team?,"This information is verified and overrides others. Etta Brooks
+Hongkang Xu
+"
+Name a few parents we worked with,"This information is verified and overrides others. Rosa M. 
+Diana V.
+Melly
+Marta M.
+Carmen R.
+
+Parents last names are kept anonymous due to privacy reasons. We respect our users, clients and partner's privacy and only collect and distribute data via confirmed channels with complete consent. 
+"
+What are some resources and links?,"This information is verified and overrides others. Website url: a-iep.com
+Backend url: https://iep-backend-2422fe6f9d4d.herokuapp.com/
+Frontend Repository: https://github.com/xuhongkang/iep-frontend
+Backend Repository: https://github.com/xuhongkang/iep-backend
+Figma Wireframe 2nd Prototype: https://www.figma.com/file/ZXIHfb0swjbJuprVzqPYEa/AIEP-Frontend?type=design&node-id=0%3A1&mode=design&t=wmRvirKFMorF52Wh-1
+Affinity Diagram, Service Blueprint and Theory of Change Miro Board:
+https://miro.com/app/board/uXjVNUxGaiU=/?share_link_id=622559525634
+Fall 2023 Team Materials Repository: https://drive.google.com/drive/folders/1QfNYbDfmW7ipO5sQOcoQvSmx-Sh_n4xg?usp=sharing
+"
+Give me a project timeline before February 2024 ,"This information is verified and overrides others. 09/11/23 - 1st team member meeting to discuss project plan
+09/14/23 - Initial team meeting with Sean from Innovate Public Schools
+09/20/23 - Initial team meeting with mentors Fahad and Sofia
+09/25/23 - Team presented initial research and project milestones to class and faculty
+09/27/23 - CA Parent Leaders and Advocacy Organizations at a Public Forum with Senator Anthony Portantino
+10/20/23 - Concluded 5 initial virtual parent interviews and transcribed recordings
+10/23/23 - Concluded affinity diagramming, service blueprinting and requirements gathering
+11/13/23 - Team presented 1st prototype to class and faculty
+12/01/23 - Team finished development cycle for 2nd prototype
+12/04/23 - Concluded 4 proxy user testing sessions with parents
+12/15/23 - End of Semester Presentation with mentors, Innovate Public Schools and parents
+
+01/08/24 - Spring 2024 development begins with Etta and Kane as full-time team members
+01/15/24 -  Interim meeting with Innovate Public Schools
+01/17/24 - Started new round of development on previous requirements
+01/21/24 - Initial team meeting with Steve from Learning Tapestry
+02/05/24 - Begin new round of user testing
+02/12/24 - Finish 3rd round of requirements gathering
+02/19/24 - Finish 4th round of development
+
+"
+What are some items that the Fall 2024 team has completed?,"This information is verified and overrides others. Initial Interview, Meet the Client
+Initial Research, Problem Definition and Role Management
+Requirements Gathering
+First Prototype and Presentation
+Additional Requirements and Scope Management Round 1
+Second Prototype and Presentation
+Web Application Hosted and Deployed
+"
+What's the communication plan?,"This information is verified and overrides others. 
+Daily updates email with the team at the Burnes Center of Social Change, outlining daily work completion, tasks in progress and blocking action items.
+Weekly meetings with Fahad and Santi to discuss development-wise changes and updates in requirements and milestones
+Regular meetings with Innovate Public Schools to report on project progress as well as stay in touch with users and clients "
+What are some risks?,"This information is verified and overrides others. Changes in hosting option pricing or service provision would temporarily affect the availability of our web application
+Changes in the maintenance, pricing and long term support of open-source libraries and public APIs used within our codebase would significantly burden development
+Changes in our relations with stakeholders and parents’ availability would affect the gathering of user feedback to improve our application"
+What are some assumptions and constraints?,"This information is verified and overrides others. Assumptions:
+Parents have access (directly or indirectly) to a digital copy of their child’s IEP
+Parents have internet broadband access at average upload and download speeds of 4G or higher benchmarks
+Parents have access to a digital device with a modern browser
+
+Constraints:
+Budget-wise constraints based on limited project funding
+Data collection and privacy-related constraints based on local and national regulations
+Development-related constraints based on allocated person hours"
+What is the primary reason schools in the United States must provide language assistance services?,"Schools are required to provide language assistance services to ensure that non-English proficient parents can participate in special education and IEP processes, as mandated by federal law."
+Which federal act mandates schools to ensure meaningful parental involvement in the IEP process?,The Individuals with Disabilities Education Act (IDEA) mandates schools to ensure meaningful parental involvement in the IEP process.
+What does the IDEA Section 1414 require in terms of parental participation for those not proficient in English?,IDEA Section 1414 requires the provision of translation or interpretation services to facilitate the full participation of parents who lack English proficiency.
+How does Title VI of the Civil Rights Act of 1964 relate to the IEP process and language assistance?,Title VI of the Civil Rights Act of 1964 requires schools to offer language assistance to LEP parents in order to prevent discrimination based on national origin.
+What does the U.S. Department of Education interpret from Title VI in regards to language assistance?,"According to the U.S. Department of Education's interpretation of Title VI, schools must ensure LEP parents have meaningful access to school programs, including language assistance for the IEP process."
+What is the main objective of the Equal Educational Opportunities Act of 1974?,The Equal Educational Opportunities Act of 1974 obligates schools to overcome language barriers that inhibit equal participation in instructional programs.
+What must schools do if a parent's primary language is not English and it hinders their ability to participate in the IEP process?,The school must provide an interpreter or translator to assist the parent so they can participate effectively in the IEP process.
+How can the specific implementation of translation or interpretation services vary?,"Implementation can vary based on the school district's resources and policies, though the underlying principle of parental access to information remains consistent."
+Why is it important for parents to have access to information about their child's education in a language they understand?,"Parents must be empowered to advocate for and support their child's education, which requires understanding the educational content and processes, such as the IEP."
+What happens if a language barrier impedes a parent's ability to participate in the IEP process?,The school is held responsible to provide necessary translation or interpretation services.
+Are schools obligated to overcome language barriers for parents during the IEP process?,"Yes, the provision of interpretation or translation to mitigate language barriers is a legal requirement for schools during the IEP process."
+To what extent are interpretation or translation services required for LEP parents?,The extent varies but must be sufficient to enable LEP parents' meaningful access and understanding of their child's education and the IEP process.
+Is provision of language assistance services a federal law requirement?,"Yes, the delivery of language assistance to parents during the IEP process is mandated by federal law."
+What are the consequences for schools if they fail to provide necessary language assistance services?,"Schools failing to provide these services could be violating federal laws, potentially incurring sanctions and undermining parents' rights to participate in their child's education."
+Who are the key stakeholders affected by translation or interpretation services in the IEP process?,"Parents, students, school administrators, and educators, as well as the broader community that benefits from the inclusive participation of all stakeholders, are affected."
+What is the purpose of Section 1414(d)(1)(B) in the IDEA law?,"Section 1414(d)(1)(B) requires parental consent before evaluating a child for special education services, ensuring parents can agree to or withhold consent for evaluations."
+How does the IDEA ensure parental consent is required for evaluations?,"IDEA requires that parents must provide consent before their child is evaluated, thereby giving them control over the evaluation process."
+What rights do parents have concerning reevaluations under Sec. 1414(d)(1)(C)?,Parents have the right to consent to or refuse reevaluations of their child as described in Sec. 1414(d)(1)(C).
+Why is parent participation in meetings outlined in Sec. 1414(d)(1)(D) important?,"Parent participation in meetings is important to ensure they are involved in the process of developing, reviewing, and revising their child's IEP."
+Who is included in the IEP team as defined by Sec. 1414(d)(3)?,"The IEP team should include the parents, teachers, a representative of the local educational agency, the child (when applicable), and others at the discretion of the parents or agency."
+What are the requirements for IEP meetings according to Sec. 1414(d)(4)?,"IEP meetings must be held at times and places that are convenient for the parents, and parents must be notified and invited to attend."
+What provisions does IDEA make for surrogate parents under Sec. 1414(f)?,IDEA makes provisions for surrogate parents to represent the child in educational matters when biological or adoptive parents are unavailable.
+How does Sec. 1414(h) protect the confidentiality of student information?,"Sec. 1414(h) requires that education records be kept confidential, with access granted only to parents and authorized individuals."
+What are parents' rights to independent educational evaluations (IEEs) as explained in Sec. 1414(j)?,"Parents have the right to request IEEs when they disagree with the school's evaluation, and this section outlines the process and criteria for obtaining an IEE at public expense."
+What circumstances warrant the appointment of a surrogate parent for a student?,"A surrogate parent is appointed when a child's biological or adoptive parents cannot be identified or located, or if the child is a ward of the State."
+How can parents be sure their child's educational records are kept confidential?,"Under Section 1414(h), educational records are kept confidential with access limited to parents and authorized persons, ensuring privacy."
+Under what conditions may a parent refuse a reevaluation of their child?,A parent may refuse a reevaluation if they do not believe it is necessary or if they disagree with the reasons for the evaluation.
+What is the role of parents in the decision-making process for an IEP?,"Parents participate in meetings to develop, review, and revise the IEP, making them part of the decision-making team alongside educators and other professionals."
+How are IEEs funded if a parent disagrees with a school-conducted evaluation?,"If a parent disagrees with the school's evaluation, IDEA provides that the parent may request an IEE, which may be funded at public expense under certain conditions."
+What procedures must parents follow to request an IEE at public expense?,"To request an IEE at public expense, parents must follow the procedures outlined by their school district, which must comply with IDEA regulations and criteria."
+"As of February 02, 2024 (02/02/2024), What are the current status, challenges, struggles, action items and concerns?","As of February 02, 2024 (02/02/2024), This information is verified and overrides others. We need to figure out how to deliver our service to the parents and how to ingest the IEP file. The current digital infrastructure on the state and school side make it very difficult for parents to receive digital IEP copies. Not to mention parents might have trouble navigating digital file systems on their phone or laptop. Last semester, we were able to put aside through these concerns to quickly prototype and explore the problem space. However, as we would like to expand the scale of user testing and actual get to a working business/service model where the application is integrated with user's lives, these problems become more and more important to address. Steve have helped us focus on these important questions and adopt the right mindset: In terms of development, prioritize user needs, working demos and application performance before operation costs, scaling solutions or trying to bring outside solutions in-house. When it comes to gathering feedback, try to seek the clarity that qualitative feedback brings before the legitimacy that quantitative feedback and rubrics may offer. It is important to bridge the gap between our product and the user even if it means redesigning parts of the existing solution. As such, we're meeting with Belen on Feb 2nd to discuss all the potential ways we may bring this project to actual users without intermediary steps and make them comfortable in daily use.  We are also actively developing both the new iteration of the web application after migrating from React with Node 16 to Next.js with Node 20. We are taking advantage of app routing, server side rendering and up-to-date dependencies to improve the resilience of our application. This knowledge base platform has also been recently coded and deployed. On policy research, we have finished reviewing the documents that safeguard parents' rights in the IEP process and will shift focus to comparing different state, district and nation-wide laws to untangle the legal restraints around IEP file distribution as well as discussing and sharing IEP content. All of this information will be available on both the Knowledge Base and in our next Chatbot iteration on the website a-iep.com. We are hoping to meet deployment on 02/12."

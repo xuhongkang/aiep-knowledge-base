@@ -1,0 +1,12 @@
+fastapi[all]
+openai
+python-dotenv
+pydantic==1.*
+langchain
+langchain_community
+langchain_openai
+faiss-cpu
+tiktoken
+pdf2image
+pymupdf
+pymupdfb
