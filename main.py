@@ -17,12 +17,13 @@ def main():
     st.subheader('Use the Existing Model, Ask Away!')
 
     message_container, submit_question_container = st.columns([6, 1])
-    message = message_container.text_area("Hi, this is the AIEP Spring 2024 Project Development Team. Feel free to ask any questions about our project's definition, timeline, recent meetings, motivations and more!")
+    message = message_container.text_area("Hi, this is the AIEP Spring 2024 Project Development Team. Feel free to ask any questions about our project's definition, timeline, recent meetings, motivations, and more!")
     submit_question_container.write('Ctrl+Enter')
-    if message or submit_question_container.button("Ask", key='submit_question'):
-        st.write("Typing...")
+    ask_button_clicked = submit_question_container.button("Ask", key='submit_question')
+    if ask_button_clicked and message:
         result = kb.generate_response(message)
         st.info(result)
+        
     st.subheader("Something Doesn't Feel Right? Help Improve the Model!")
     uploaded_file = st.file_uploader("Upload File", type=['pdf'])
     if uploaded_file is not None:
