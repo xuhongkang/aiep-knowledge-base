@@ -19,7 +19,7 @@ def main():
     message_container, submit_question_container = st.columns([6, 1])
     message = message_container.text_area("Hi, this is the AIEP Spring 2024 Project Development Team. Feel free to ask any questions about our project's definition, timeline, recent meetings, motivations and more!")
     submit_question_container.write('Ctrl+Enter')
-    if message or submit_question_container.button("Ask"):
+    if message or submit_question_container.button("Ask", key='submit_question'):
         st.write("Typing...")
         result = kb.generate_response(message)
         st.info(result)
@@ -38,7 +38,7 @@ def main():
     question = question_container.text_area('(Optional) For This Question...')
     answer = answer_container.text_area("Here's the Right Answer!")
     submit_change_container.write("...and off it goes!")
-    if submit_change_container.button("Submit"):
+    if submit_change_container.button("Submit", key='submit_change'):
         kb.update_embeddings(question, answer, priority=True)
 
 
